@@ -1,0 +1,22 @@
+YEAR,HOST,WINNER,SCORE,RUNNER UP,WINNING CAPTAIN,WINNING COACH
+1930,Uruguay,Uruguay,4--2,Argentina,José Nasazzi,Alberto Suppici
+1934,Italy,Italy,2--1  a.e.t.,Czechoslovakia,Giampiero Combi,Vittorio Pozzo
+1938,France,Italy,4--2,Hungary,Giuseppe Meazza,Vittorio Pozzo
+1950,Brazil,Uruguay,2--1,Brazil,Obdulio Varela,Juan López Fontana
+1954,Switzerland,West Germany,3--2,Hungary,Fritz Walter,Sepp Herberger
+1958,Sweden,Brazil,5--2,Sweden,Hilderaldo Bellini,Vicente Feola
+1962,Chile,Brazil,3--1,Czechoslovakia,Mauro Ramos,Aymoré Moreira
+1966,England,England,4--2  a.e.t.,West Germany,Bobby Moore,Alf Ramsey
+1970,Mexico,Brazil,4--1,Italy,Carlos Alberto Torres,Mário Zagallo
+1974,West Germany,West Germany,2--1,Netherlands,Franz Beckenbauer,Helmut Schön
+1978,Argentina,Argentina,3--1  a.e.t.,Netherlands,Daniel Passarella,César Luis Menotti
+1982,Spain,Italy,3--1,West Germany,Dino Zoff,Enzo Bearzot
+1986,Mexico,Argentina,3--2,West Germany,Diego Maradona,Carlos Bilardo
+1990,Italy,West Germany,1--0,Argentina,Lothar Matthäus,Franz Beckenbauer
+1994,USA,Brazil,3--2 (0--0) p.s.o.,Italy,Dunga,Carlos Alberto Parreira
+1998,France,France,3--0,Brazil,Didier Deschamps,Aimé Jacquet
+2002,S. Korea/ Japan,Brazil,2--0,Germany,Cafu,Luiz Felipe Scolari
+2006,Germany,Italy,5--3 (1--1) p.s.o.,France,Fabio Cannavaro,Marcello Lippi
+2010,South Africa,Spain,1--0  a.e.t.,Netherlands,Iker Casillas,Vicente del Bosque
+2014,Brazil,Germany,1--0 a.e.t.,Argentina,Philipp Lahm,Joachim Löw
+2018,Russia,France,4--2,Croatia,Hugo Lloris,Didier Deschamps

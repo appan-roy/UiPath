@@ -1,0 +1,13 @@
+Steps to Create Custom Activity
+
+1.	Write Code in Visual Studio
+
+2.	Build Code to make .dll file.
+
+3.	Import .dll in NuGet Package Explorer and make changes.
+
+4.	Save .dll to .nupkg file using NuGet package Explorer.
+
+5. 	Install NuGet Package from Manage Packages in UiPath.
+
+6.	Custom Activity is ready to use.

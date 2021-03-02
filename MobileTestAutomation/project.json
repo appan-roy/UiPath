@@ -1,0 +1,47 @@
+{
+  "name": "MobileTestAutomation",
+  "description": "Mobile Testing Project",
+  "main": "Main.xaml",
+  "dependencies": {
+    "UiPath.Excel.Activities": "[2.9.0-preview]",
+    "UiPath.MobileAutomation.Activities": "[20.4.3]",
+    "UiPath.System.Activities": "[20.4.0]",
+    "UiPath.Testing.Activities": "[1.0.0]"
+  },
+  "webServices": [],
+  "schemaVersion": "4.0",
+  "studioVersion": "20.4.3.0",
+  "projectVersion": "1.0.0",
+  "runtimeOptions": {
+    "autoDispose": false,
+    "isPausable": true,
+    "requiresUserInteraction": true,
+    "supportsPersistence": false,
+    "excludedLoggedData": [
+      "Private:*",
+      "*password*"
+    ],
+    "executionType": "Workflow"
+  },
+  "designOptions": {
+    "projectProfile": "Developement",
+    "outputType": "Tests",
+    "libraryOptions": {
+      "includeOriginalXaml": false,
+      "privateWorkflows": []
+    },
+    "fileInfoCollection": [
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "87bf368c-2bf3-4f60-8ca4-aa9b0b6d3d29",
+        "fileName": "Mobile Testing\\TestRecording.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "ac763907-fee2-479a-a497-02b87e978802",
+        "fileName": "Mobile Testing\\OrangeHRM_DDT.xaml"
+      }
+    ]
+  },
+  "expressionLanguage": "VisualBasic"
+}

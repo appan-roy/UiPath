@@ -1,0 +1,69 @@
+Uid: =?us-ascii?q?00000000C5534C6DC84872429D492F459B0E479F0700C3B68E10F77511CEB?=
+ =?us-ascii?q?4CD00AA00BBB6E600000000000C0000D9539C2261A6BB45B9DAB62C7081B3?=
+ =?us-ascii?q?C101002D2300000000?=
+Date: 05/31/2020 00:05:05
+DateCreated: 05/31/2020 00:05:12
+DateRecieved: 05/31/2020 00:05:17
+HtmlBody: Hi,<p>Please find below the resignee list for this month -<p>Total
+ no. of resignees:	6<p><table border=1><tr><th>First Name</th><th>Last
+ Name</th><th>Years of
+ =?us-ascii?q?Experience=3C=2Fth=3E=3Cth=3ERole=3C=2Fth=3E=3C=2Ftr=3E=3Ctr=3E=3Ctd=3ERaima=3C=2Ftd=3E=3Ctd=3EBhatta?=
+ =?us-ascii?q?charyya=3C=2Ftd=3E=3Ctd=3E3=3C=2Ftd=3E=3Ctd=3EAutomation?=
+ Tester</td></tr><tr><td>Ridhi</td><td>Bothra</td><td>2</td><td>Manual
+ Tester</td></tr><tr><td>Anuj</td><td>Jain</td><td>1</td><td>Manual
+ Tester</td></tr><tr><td>Shruti</td><td>Poddar</td><td>3</td><td>Manual
+ Tester</td></tr><tr><td>Anish</td><td>Ghosh</td><td>3</td><td>Manual
+ Tester</td></tr><tr><td>Sourav</td><td>Ghosh</td><td>1</td><td>Manual
+ Tester</td></tr></table><p><p>Regards,<br>Appan Roy
+PlainText: Hi,Please find below the resignee list for this month -Total no. of
+ resignees: 6First Name	Last Name	Years of Experience	Role	Raima	Bhattacharyya
+	3	Automation Tester	Ridhi	Bothra	2	Manual Tester	Anuj	Jain	1	Manual Tester
+	Shruti	Poddar	3	Manual Tester	Anish	Ghosh	3	Manual Tester	Sourav	Ghosh	1
+	Manual Tester	Regards,Appan Roy
+Size: 5268
+Sender: Appan Singha Roy <appan12345@gmail.com>
+From: Appan Singha Roy <appan12345@gmail.com>
+To: "appan12345@gmail.com" <appan12345@gmail.com>
+Subject: UiPath RPA Report
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="=-X4ZDIHUeSFqJrcwixiR+FA=="
+
+--=-X4ZDIHUeSFqJrcwixiR+FA==
+Content-Type: text/plain; charset=us-ascii
+
+Hi,
+
+Please find below the resignee list for this month -
+
+Total no. of resignees: 6
+
+First Name	Last Name	Years of Experience	Role	
+Raima	Bhattacharyya	3	Automation Tester	
+Ridhi	Bothra	2	Manual Tester	
+Anuj	Jain	1	Manual Tester	
+Shruti	Poddar	3	Manual Tester	
+Anish	Ghosh	3	Manual Tester	
+Sourav	Ghosh	1	Manual Tester	
+
+Regards,
+Appan Roy
+--=-X4ZDIHUeSFqJrcwixiR+FA==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Id: <c26caea7-203b-419e-a718-b59ae43493d1>
+
+SGksPHA+UGxlYXNlIGZpbmQgYmVsb3cgdGhlIHJlc2lnbmVlIGxpc3QgZm9yIHRoaXMgbW9u
+dGggLTxwPlRvdGFsIG5vLiBvZiByZXNpZ25lZXM6CTY8cD48dGFibGUgYm9yZGVyPTE+PHRy
+Pjx0aD5GaXJzdCBOYW1lPC90aD48dGg+TGFzdCBOYW1lPC90aD48dGg+WWVhcnMgb2YgRXhw
+ZXJpZW5jZTwvdGg+PHRoPlJvbGU8L3RoPjwvdHI+PHRyPjx0ZD5SYWltYTwvdGQ+PHRkPkJo
+YXR0YWNoYXJ5eWE8L3RkPjx0ZD4zPC90ZD48dGQ+QXV0b21hdGlvbiBUZXN0ZXI8L3RkPjwv
+dHI+DQo8dHI+PHRkPlJpZGhpPC90ZD48dGQ+Qm90aHJhPC90ZD48dGQ+MjwvdGQ+PHRkPk1h
+bnVhbCBUZXN0ZXI8L3RkPjwvdHI+DQo8dHI+PHRkPkFudWo8L3RkPjx0ZD5KYWluPC90ZD48
+dGQ+MTwvdGQ+PHRkPk1hbnVhbCBUZXN0ZXI8L3RkPjwvdHI+DQo8dHI+PHRkPlNocnV0aTwv
+dGQ+PHRkPlBvZGRhcjwvdGQ+PHRkPjM8L3RkPjx0ZD5NYW51YWwgVGVzdGVyPC90ZD48L3Ry
+Pg0KPHRyPjx0ZD5BbmlzaDwvdGQ+PHRkPkdob3NoPC90ZD48dGQ+MzwvdGQ+PHRkPk1hbnVh
+bCBUZXN0ZXI8L3RkPjwvdHI+DQo8dHI+PHRkPlNvdXJhdjwvdGQ+PHRkPkdob3NoPC90ZD48
+dGQ+MTwvdGQ+PHRkPk1hbnVhbCBUZXN0ZXI8L3RkPjwvdHI+PC90YWJsZT48cD48cD5SZWdh
+cmRzLDxicj5BcHBhbiBSb3k=
+
+--=-X4ZDIHUeSFqJrcwixiR+FA==--

@@ -1,0 +1,35 @@
+{
+  "GenerateCrossPlatformAttributes": false,
+  "GenerateSelectorsForInnerElements": true,
+  "Connections": [
+    {
+      "Name": "My Mobile",
+      "Description": null,
+      "Url": "http://127.0.0.1:4723/wd/hub",
+      "PlatformName": "Android",
+      "PlatformVersion": "7.1.1",
+      "DeviceName": "Moto E4 Plus",
+      "Capabilities": {}
+    }
+  ],
+  "Applications": [
+    {
+      "Name": "Chrome Browser",
+      "Description": null,
+      "Type": "Web",
+      "Platforms": {
+        "Android": {
+          "Capabilities": {
+            "browserName": "Chrome"
+          },
+          "StartPage": null
+        },
+        "iOS": {
+          "Capabilities": {},
+          "StartPage": null
+        }
+      }
+    }
+  ],
+  "IdsMaxAllowedLength": 40
+}

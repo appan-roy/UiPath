@@ -1,0 +1,36 @@
+ZERODHA SECURITIES PRIVATE LIMITED
+DP OF Central Depository Services (I) Ltd.
+NO. 153/154, GROUND FLOOR,,4TH CROSS,,J P NAGAR, 4TH PHASE,
+BANGALORE,Karnataka-560078
+ Phone-080-40402020 
+Email-hanan@zerodha.com,roopa@zerodha.com,audit@zerodha.com,india@zerodha.com
+DP Id 12081600 Client Id 07504996 Sex M DP Int Ref No YT4509 A/c Status Active A/c Opening Dt 04-JAN-2018 Purchase Waiver Y
+BO Status Individual BO Sub Status Individual- Resident Negative Nomination A/c Category Regular BO Freeze Status Registered for Easi
+Nationality INDIA Stmt Cycle End of Month Occupation GOVERNME Closure Init By A/c Closure Dt Registered for Easiest
+NT 
+SERVICES
+SMS Register  YES SMS Mobile No 9831326857 UID RBI Ref No RBI Approval Dt
+BSDA Flag No RGESS Flag No Pledge SI Flag No Email D/L Flag Yes Annual Report Flag Electronic
+
+First Holder Name MR APPAN SINGHAROY  First Holder PAN DQAPS1370E  Date of Birth 07-MAR-1990
+
+Second Holder Name Second Holder PAN  Date of Birth
+Third Holder Name Third Holder PAN  Date of Birth
+
+Correspondence  32 SHRIMANI BAGAN LANE Permanent  32 SHRIMANI BAGAN LANE
+Address  PS-GOLABARI HOWRAH Address  PS-GOLABARI HOWRAH
+HOWRAH, 711106, WEST BENGAL India  HOWRAH, 711106, WEST BENGAL India 
+
+Phone /Fax   9831326857 /  /  Phone / Fax   9831326857 /  / 
+Email  APPAN12345@GMAIL.COM Email  APPAN12345@GMAIL.COM
+
+Bank  AXIS BANK Bank A/C Type  Savings Bank Account A/C No  913010050142501
+Detail  KOLKATA 700091, WEST BENGAL INDIA  MICR  700211024 IFSC   UTIB0000319
+
+Nominee Name  % Residual Sec Flag Nominee's Guardian Name
+
+POA Details
+POA Master Id POA Name POA Reference Holder(1st\2nd\3rd)
+2208160000000022 ZERODHA  2208160000000022 First Holder
+
+05-Jan-2018-09:47:05/ADMIN/ADMIN                        CDSL CIN: U67120MH1997PLC112443 1

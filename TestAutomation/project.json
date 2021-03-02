@@ -1,0 +1,158 @@
+{
+  "name": "TestAutomation",
+  "description": "Test Automation Project",
+  "main": "Main.xaml",
+  "dependencies": {
+    "UiPath.Excel.Activities": "[2.8.5]",
+    "UiPath.PDF.Activities": "[3.2.2]",
+    "UiPath.System.Activities": "[20.4.0]",
+    "UiPath.Testing.Activities": "[1.0.0]",
+    "UiPath.UIAutomation.Activities": "[20.4.1]",
+    "UiPath.Word.Activities": "[1.4.2]"
+  },
+  "webServices": [],
+  "schemaVersion": "4.0",
+  "studioVersion": "20.4.1.0",
+  "projectVersion": "1.0.0",
+  "runtimeOptions": {
+    "autoDispose": false,
+    "isPausable": true,
+    "requiresUserInteraction": true,
+    "supportsPersistence": false,
+    "excludedLoggedData": [
+      "Private:*",
+      "*password*"
+    ],
+    "executionType": "Workflow"
+  },
+  "designOptions": {
+    "projectProfile": "Developement",
+    "outputType": "Tests",
+    "libraryOptions": {
+      "includeOriginalXaml": false,
+      "privateWorkflows": []
+    },
+    "fileInfoCollection": [
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "e7960b14-c594-4476-b655-3ffa7c3dd7eb",
+        "fileName": "Testing\\Web Testing\\OrangeHRM_Login_Test.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "eb5c00e7-c177-450a-bb8e-19aa2e65b1a2",
+        "fileName": "Testing\\Desktop App Testing\\Calculator_Test.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "5a902a76-fd8a-46e1-885a-eccc150e61c5",
+        "fileName": "Testing\\Test Recording\\Web_Recording_Test.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "b40bd834-15a1-4032-bda0-d817aaac5c2b",
+        "fileName": "Testing\\Test Recording\\WinApp_Recording_Test.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "d8a9af02-54b4-4e9b-942a-1bfeee84f2d3",
+        "dataVariationFilePath": ".variations\\UiBank Loan Data_Sheet1.json",
+        "fileName": "Testing\\Data Driven Testing\\UiBank_DDT.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "f4017675-38ab-48f3-8fb5-7c788774d4cc",
+        "fileName": "Testing\\Data Driven Testing\\Data_Scraping_Flipkart_To_CSV.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "a817bb6c-a9f7-4f2c-b8d0-be57963ddc0a",
+        "fileName": "Testing\\Data Driven Testing\\Data_Scraping_YouTube_To_Excel.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "ece61918-46a2-436c-b45b-30a772f044a9",
+        "fileName": "Testing\\Web Testing\\Iterate_EachURL_Test.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "f4af0e8b-57d6-40dc-8b4b-7c31ea825f5e",
+        "dataVariationFilePath": "",
+        "fileName": "Testing\\Data Driven Testing\\ParcelMonkey_DDT.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "e856c0e4-226a-476a-9316-6d77f809fc68",
+        "fileName": "Testing\\Data Driven Testing\\NSE_LiveData_DDT.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "b9fd6b8c-ed2a-4257-9e1f-2c1fa320e8d9",
+        "fileName": "Testing\\Data Driven Testing\\Screen_Scraping_NSE_To_Notepad.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "bac29421-b60f-4e10-80f3-81fc30cceac4",
+        "dataVariationFilePath": ".variations\\OrangeHRM Data_Cred.json",
+        "fileName": "Testing\\Data Driven Testing\\OrangeHRM_DDT.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "04b22f0a-8062-438b-a672-35c6c3dba9f8",
+        "fileName": "Testing\\Web Testing\\TutorialsPoint_Practice_Form.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "4bcde024-64f3-43ae-b332-efbee909e21e",
+        "fileName": "Testing\\Web Testing\\TutorialsPoint_Practice_Form_Args.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "7c609ce7-f0e7-4f0c-a34f-228e0ca885bc",
+        "fileName": "Testing\\Data Driven Testing\\TutorialsPoint_Practice_Form_DDT.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "befcccdc-f0a5-4bf9-b66f-98623e63d7b2",
+        "fileName": "Testing\\Data Driven Testing\\Config_File_Usage.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "aa4c71b7-a672-45b0-9797-8ab0e7b6bcdb",
+        "fileName": "Testing\\Assertions\\Verify_Control_Attribute_NegativeCase.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "dd63692c-f412-4ac3-b19e-d3c89ab13e73",
+        "fileName": "Testing\\Assertions\\Verify_Expression_PositiveCase.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "fa3ffc02-b778-490b-972e-cb8706e0f889",
+        "fileName": "Testing\\Assertions\\Verify_Expression_NegativeCase.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "29afd3b9-90b2-45f1-823c-7158103c230e",
+        "fileName": "Testing\\Assertions\\Verify_Control_Attribute_PositiveCase.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "2c66aa8c-fb26-4a97-a6be-127a4291e16c",
+        "fileName": "Testing\\Assertions\\Verify_Expression_With_Operator_PositiveCase.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "a8c516ae-b6c1-43bf-b49b-eab83417fc94",
+        "fileName": "Testing\\Assertions\\Verify_Expression_With_Operator_NegativeCase.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "9eea3eaa-2085-49a2-b11e-f9074c40e30f",
+        "dataVariationFilePath": "",
+        "fileName": "Testing\\Data Driven Testing\\UiBank_DDT_2.xaml"
+      }
+    ]
+  },
+  "expressionLanguage": "VisualBasic"
+}
